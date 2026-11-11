@@ -7,4 +7,5 @@
         }
       },
     "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "cmake.sourceDirectory": "/home/kali/lab05/src",
 }
